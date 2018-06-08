@@ -1,0 +1,27 @@
+[
+    {
+        "id": "perfectScore",
+        "description": "Congratulations! You're clearly a super maths whizz genius pants - keep up the awesome work!",
+        "image": "/perfectScore.jpeg"
+    },
+    {
+        "id": "prettyGood",
+        "description": "Well done, you're above average! Good on you for beating those losers at the bottom.",
+        "image": "/prettyGood.jpeg"
+    },
+    {
+        "id": "average",
+        "description": "You're not terrible at maths, but you're not that great either. Keep trying!",
+        "image": "average.jpeg"
+    },
+    {
+        "id": "notGreat",
+        "description": "Ok, you didn't get absolutely nil, but you've defintiely got some work to do. Maybe it's time to hit the books...",
+        "image": "notGreat.jpeg"
+    },
+    {
+        "id": "dunce",
+        "description": "Hmm, someone's not great at maths, are they?",
+        "image": "dunce.jpeg"
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "celebquizcate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/catepalmer/celebquizcate.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "jest": "^23.1.0",
+    "nodemon": "^1.17.5"
+  }
+}

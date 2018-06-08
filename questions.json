@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "What is 5 times 7?",
+        "answer": [35, 40, 34, 37, 36]
+    },
+    {
+        "id": 2,
+        "question": "What is the square root of 196?",
+        "answer": [14, 12, 11, 16, 18]
+    },
+    {
+        "id": 3,
+        "question": "What is 126 divided by 6?",
+        "answer": [21, 19, 22, 28, 16]
+    },
+    {
+        "id": 4,
+        "question": "What is 80 percent of 80?",
+        "answer": [64, 68, 60, 72, 70]
+    },
+    {
+        "id": 5,
+        "question": "What is the sum of 28 divided by 4 and 63 divided by 7?",
+        "answer": [16, 15, 14, 12, 19]
+    },
+    {
+        "id": 6,
+        "question": "What is 43 divided by 8, rounded to two decimal places?",
+        "answer": [5.4, 6.1, 7.2, 4.8, 5.6]
+    },
+    {
+        "id": 7,
+        "question": "If fahrenheit is the temperature in celsius divided by 5, times 9, and then plus 32, what is 30 degress celsius in fahrenheit?",
+        "answer": [86, 88, 90, 92, 87]
+    },
+    {
+        "id": 8,        
+        "question": "What is 38 plus 15?",
+        "answer": [53, 55, 51, 56, 57]
+    },
+    {
+        "id": 9,        
+        "question": "What is 9 times 6 minus 16?",
+        "answer": [38, 36, 34, 40, 33]
+    },
+    {
+        "id": 10,        
+        "question": "What is 0.3 plus 8 and two thirds, to two decimal places?",
+        "answer": [8.97, 9.03, 9.07, 9.10, 8.96]
+    }
+]
