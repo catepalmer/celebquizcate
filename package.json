@@ -4,6 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/catepalmer/celebquizcate.git",
   "license": "MIT",
+  "scripts": {
+    "debug": "nodemon --inspect index --ignore data.json",
+    "test": "jest --watchAll --noStackTrace",
+    "start": "node index",
+    "portinstall": "echo 'Install Done'"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
